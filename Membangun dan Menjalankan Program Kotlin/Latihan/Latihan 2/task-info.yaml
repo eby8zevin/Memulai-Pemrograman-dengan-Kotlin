@@ -5,7 +5,7 @@ files:
   visible: true
   placeholders:
   - offset: 17
-    length: 31
+    length: 30
     placeholder_text: println()
     initial_state:
       length: 9
