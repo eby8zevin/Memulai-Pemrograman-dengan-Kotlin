@@ -1,3 +1,3 @@
 fun main() {
-    println("Kotlin,\nis Awesome")
+    println("Kotlin,\nis Awesome!")
 }

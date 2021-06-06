@@ -5,7 +5,7 @@ files:
   visible: true
   placeholders:
   - offset: 17
-    length: 30
+    length: 31
     placeholder_text: println()
     initial_state:
       length: 9
@@ -32,5 +32,5 @@ files:
 status: Solved
 feedback:
   message: Congratulations!
-  time: Sun, 06 Jun 2021 08:35:07 UTC
+  time: Sun, 06 Jun 2021 09:47:52 UTC
 record: -1
