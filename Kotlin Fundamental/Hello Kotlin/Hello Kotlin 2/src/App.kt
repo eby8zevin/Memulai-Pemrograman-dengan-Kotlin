@@ -1,6 +1,6 @@
 // main function
 fun main() {
-    val name = "Alfian"
+    val name = "Ahmad Abu Hasan"
 
     print("Hello my name is ")
     println(name)
@@ -8,6 +8,6 @@ fun main() {
 }
 /*
    output:
-       Hello my name is Alfian
+       Hello my name is Ahmad Abu Hasan
        Always true
 */
