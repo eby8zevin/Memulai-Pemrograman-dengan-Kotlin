@@ -1,3 +1,3 @@
 fun main() {
-    println("Kotlin is Awesome")
+    println("Kotlin is Awesome!")
 }
