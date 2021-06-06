@@ -1,6 +1,6 @@
 // main function
 fun main() {
-    var vocal = 'A'
+    var vocal = 'B'
 
     println("Vocal " + vocal++)
     println("Vocal " + vocal++)
