@@ -16,5 +16,5 @@ val byteNumber = 0b11010010
 val doubleNumbers = 1.3
 
 fun main() {
-    println("Numbers")
+    println("Number")
 }
