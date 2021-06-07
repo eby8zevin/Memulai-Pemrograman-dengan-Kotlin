@@ -6,5 +6,5 @@ fun main() {
 
     val isOpen = now >= officeOpen && now <= officeClosed
 
-    print("Office is open : $isOpen")
+    print("Office is ope : $isOpen")
 }
