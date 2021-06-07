@@ -1,5 +1,5 @@
 // type your solution here
 fun main() {
-    val statement = "Kotlin is \"Awesome!\""
+    val statement = "Kotli is \"Awesome!\""
     println(statement)
 }
