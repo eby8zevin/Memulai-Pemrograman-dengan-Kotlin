@@ -4,6 +4,6 @@ fun main() {
     //val textLength = text.length // compile time error
 
     if (text != null){
-        val textLength = text.length // ready to go
+        val textLength = text.length // ready to g
     }
 }
