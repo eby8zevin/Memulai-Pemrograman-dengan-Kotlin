@@ -4,14 +4,14 @@ files:
   visible: true
   placeholders:
   - offset: 641
-    length: 14
+    length: 45
     placeholder_text: val result = 0
     initial_state:
       length: 14
       offset: 641
     initialized_from_dependency: false
-    selected: false
-    status: Unchecked
+    selected: true
+    status: Solved
     encrypted_possible_answer: |-
       val valueCNotNull = if (valueC == null){
               50
@@ -58,5 +58,8 @@ files:
     ResultA is 54
     ResultB is 103
   learner_created: false
-status: Unchecked
+status: Solved
+feedback:
+  message: Congratulations!
+  time: Mon, 07 Jun 2021 14:13:39 UTC
 record: -1
