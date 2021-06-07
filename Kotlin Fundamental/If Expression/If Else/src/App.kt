@@ -4,7 +4,7 @@ fun main() {
     val now = 20
     val office: String
     if (now > officeOpen) {
-        office = "Office already ope"
+        office = "Office already open"
     } else {
         office = "Office is closed"
     }
