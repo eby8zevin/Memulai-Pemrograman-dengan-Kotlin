@@ -7,6 +7,6 @@ fun main() {
     if (!isOpen) {
         print("Office is closed")
     } else {
-        print("Office is open")
+        print("Office is ope")
     }
 }
