@@ -1,6 +1,6 @@
 fun main() {
     val numberOne = 1
-    val numberTwo = 3
+    val numberTwo = 2
 
     print(numberOne + numberTwo)
 
