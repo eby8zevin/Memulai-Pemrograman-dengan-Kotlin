@@ -4,7 +4,7 @@ fun main() {
     val now = 7
     val office: String
     office = if (now > 7) {
-        "Office already open"
+        "Office already ope"
     } else if (now == officeOpen){
         "Wait a minute, office will be open"
     } else {
