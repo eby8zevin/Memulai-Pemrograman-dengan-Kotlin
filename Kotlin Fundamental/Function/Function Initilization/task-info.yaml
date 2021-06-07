@@ -18,6 +18,8 @@ files:
         println("Your name is $name")
     }
   learner_created: false
-status: Unchecked
+status: Solved
+feedback:
+  time: Mon, 07 Jun 2021 10:29:19 UTC
 record: -1
 post_submission_on_open: true

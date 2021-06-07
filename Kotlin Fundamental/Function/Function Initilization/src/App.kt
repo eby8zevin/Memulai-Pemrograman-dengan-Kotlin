@@ -1,9 +1,9 @@
 // main function
 fun main() {
-    val user = setUser("Alfian", 19)
+    val user = setUser("Ahmad Abu Hasan", 23)
     println(user)
 
-    printUser("Alfian")
+    printUser("Ahmad Abu Hasan")
 }
 
 fun setUser(name: String, age: Int) = "Your name is $name, and you $age years old"
