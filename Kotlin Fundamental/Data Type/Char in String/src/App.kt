@@ -1,6 +1,6 @@
 // main function
 fun main() {
-    val text  = "Kotli"
+    val text  = "Kotlin"
     for (char in text){
         print("$char ")
     }
