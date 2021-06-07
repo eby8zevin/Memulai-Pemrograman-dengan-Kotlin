@@ -1,5 +1,5 @@
 // main function
 fun main() {
-    val name = "Unicode test: \u0394"
+    val name = "Unicod test: \u0394"
     print(name)
 }
