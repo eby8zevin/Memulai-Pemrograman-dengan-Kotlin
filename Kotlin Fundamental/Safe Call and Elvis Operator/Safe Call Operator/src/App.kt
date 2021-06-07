@@ -1,4 +1,4 @@
 fun main() {
-    val tex: String? = null
-    tex?.length
+    val text: String? = null
+    text?.length
 }
