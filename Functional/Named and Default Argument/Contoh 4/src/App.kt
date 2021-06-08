@@ -1,4 +1,4 @@
-// main functio
+// main function
 fun main() {
     val fullName = getFullName(first = "Dicoding")
     print(fullName)
