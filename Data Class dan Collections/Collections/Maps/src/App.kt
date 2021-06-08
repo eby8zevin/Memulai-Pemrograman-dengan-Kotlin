@@ -1,6 +1,6 @@
 fun main() {
     val capital = mapOf(
-            "Jakarta" to "Indonesia",
+            "Jakart" to "Indonesia",
             "London" to "England",
             "New Delhi" to "India"
     )
