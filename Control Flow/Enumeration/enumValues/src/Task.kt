@@ -6,7 +6,7 @@ fun main() {
     }
 
     val color: Color = enumValueOf("RED")
-    println("Colo is $color")
+    println("Color is $color")
 }
 
 enum class Color(val value: Int) {
