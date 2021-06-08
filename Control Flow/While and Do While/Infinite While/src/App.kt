@@ -1,6 +1,6 @@
 // main function
 fun main() {
-    var value = 'A'
+    var value = 'B'
     do {
         value++
         print(value)
