@@ -3,7 +3,7 @@ fun main() {
     var counter = 1
 
     do {
-        println("Hello, World")
+        println("Hello, World!")
         counter++
     } while (counter <= 7)
 }
