@@ -1,4 +1,4 @@
-// main function
+// main functio
 fun main() {
     val kotlinChar = listOf('k', 'o', 't', 'l', 'i', 'n')
     val ascendingSort = kotlinChar.sorted()
