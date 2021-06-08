@@ -35,5 +35,8 @@ files:
     Maximal Speed: 230Km/s
     Maximal Tank: 10Ltr
   learner_created: false
-status: Unchecked
+status: Solved
+feedback:
+  message: Congratulations!
+  time: Tue, 08 Jun 2021 13:27:39 UTC
 record: -1
