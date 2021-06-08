@@ -1,6 +1,6 @@
 // main function
 fun main() {
-    val color : Color = Color.BLUE
+    val color : Color = Color.RED
     print(color)
 }
 
