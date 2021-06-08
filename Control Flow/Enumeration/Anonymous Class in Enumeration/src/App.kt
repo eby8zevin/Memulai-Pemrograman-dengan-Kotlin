@@ -12,7 +12,7 @@ fun main() {
 enum class Color(val value: Int) {
     RED(0xFF0000) {
         override fun printValue() {
-            println("value of RED is $value")
+            println("valu of RED is $value")
         }
     },
     GREEN(0x00FF00) {
