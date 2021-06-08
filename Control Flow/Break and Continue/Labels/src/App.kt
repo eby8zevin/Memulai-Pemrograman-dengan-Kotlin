@@ -1,7 +1,7 @@
 // main function
 fun main() {
     loop@ for (i in 1..10) {
-        println("Outsid Loop")
+        println("Outside Loop")
 
         for (j in 1..10) {
             println("Inside Loop")
