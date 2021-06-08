@@ -11,4 +11,4 @@ fun main() {
     println(registerNumber)
 }
 
-fun getRegisterNumber() = Random.nextInt(100)
+fun getRegisterNumber() = Random.nextInt(101)
