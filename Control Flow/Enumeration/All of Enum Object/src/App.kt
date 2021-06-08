@@ -1,4 +1,4 @@
-// main function
+// main functio
 fun main() {
     val colors: Array<Color> = Color.values()
     colors.forEach { color ->
