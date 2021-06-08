@@ -2,7 +2,7 @@
 fun main() {
 
     val value1 = 10
-    val value2 = 10
+    val value2 = 11
 
     sum(value1, value2)
 }
