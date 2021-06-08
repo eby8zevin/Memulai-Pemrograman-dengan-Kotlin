@@ -1,4 +1,4 @@
 fun main() {
     val sequenceNumber = generateSequence(1) { it + 1 }
-    sequenceNumber.take(5).forEach { print("$it ") }
+    sequenceNumber.take(6).forEach { print("$it ") }
 }
