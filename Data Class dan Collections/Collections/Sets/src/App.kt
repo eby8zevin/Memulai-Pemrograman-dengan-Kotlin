@@ -1,4 +1,4 @@
-// main functio
+// main function
 fun main() {
     val integerSet = setOf(1, 2, 4, 2, 1, 5)
     println(integerSet)
