@@ -4,7 +4,7 @@ fun main() {
     val stringOfValue = when (value) {
         6 -> {
             println("Six")
-            "value is 5"
+            "value is 6"
         }
         7 -> {
             println("Seven")
