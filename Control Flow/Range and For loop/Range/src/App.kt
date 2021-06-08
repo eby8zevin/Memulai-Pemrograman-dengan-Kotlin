@@ -1,5 +1,5 @@
 // main function
 fun main() {
-    val rangeInt = 1..10
+    val rangeInt = 1..11
     print(rangeInt.step)
 }
