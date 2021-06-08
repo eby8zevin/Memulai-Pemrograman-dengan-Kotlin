@@ -16,5 +16,7 @@ files:
     fun sum(value1: Int, value2: Int) = value1 + value2
   learner_created: false
 status: Solved
+feedback:
+  time: Tue, 08 Jun 2021 12:18:25 UTC
 record: -1
 post_submission_on_open: true
