@@ -1,10 +1,10 @@
 // main function
 fun main() {
-    val colorRe = Color.RED
+    val colorRed = Color.RED
     val colorGreen = Color.GREEN
     val colorBlue = Color.BLUE
 
-    println(colorRe)
+    println(colorRed)
     println(colorGreen)
     println(colorBlue)
 }
