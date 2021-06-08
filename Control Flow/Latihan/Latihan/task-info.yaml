@@ -4,34 +4,34 @@ files:
   visible: true
   placeholders:
   - offset: 380
-    length: 19
+    length: 27
     placeholder_text: if (false) continue
     initial_state:
       length: 19
       offset: 380
     initialized_from_dependency: false
     selected: false
-    status: Unchecked
+    status: Solved
     encrypted_possible_answer: if (number % 2 == 0) continue
-  - offset: 427
-    length: 16
+  - offset: 435
+    length: 22
     placeholder_text: if (false) break
     initial_state:
       length: 16
       offset: 427
     initialized_from_dependency: false
     selected: false
-    status: Unchecked
+    status: Solved
     encrypted_possible_answer: if (number > 15) break
-  - offset: 471
-    length: 13
+  - offset: 485
+    length: 35
     placeholder_text: val result =0
     initial_state:
       length: 13
       offset: 471
     initialized_from_dependency: false
-    selected: false
-    status: Unchecked
+    selected: true
+    status: Solved
     encrypted_possible_answer: val result = number * (number + 10)
   text: |-
     /**
@@ -71,5 +71,8 @@ files:
     range result is 299
     range result is 375
   learner_created: false
-status: Unchecked
+status: Solved
+feedback:
+  message: Congratulations!
+  time: Tue, 08 Jun 2021 12:40:04 UTC
 record: -1
