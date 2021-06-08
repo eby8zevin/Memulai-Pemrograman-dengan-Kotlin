@@ -8,6 +8,6 @@ files:
         list.asSequence().filter { it % 5 == 0 }.map { it + it }.forEach { println(it) }
     }
   learner_created: false
-status: Unchecked
+status: Solved
 record: -1
 post_submission_on_open: true
