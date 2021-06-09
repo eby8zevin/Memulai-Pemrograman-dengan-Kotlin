@@ -15,7 +15,7 @@ fun main() = runBlocking {
     val timeOne = measureTimeMillis {
         val capital = getCapital()
         val income = getIncome()
-        println("Your profit is ${income - capital}")
+        println("You profit is ${income - capital}")
     }
 
     val timeTwo = measureTimeMillis {
