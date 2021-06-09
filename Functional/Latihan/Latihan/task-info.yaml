@@ -38,5 +38,8 @@ files:
     First char Kotlin is K and n for second letter
     First char Dicoding is D and g for second letter
   learner_created: false
-status: Unchecked
+status: Solved
+feedback:
+  message: Congratulations!
+  time: Wed, 09 Jun 2021 03:09:26 UTC
 record: -1
