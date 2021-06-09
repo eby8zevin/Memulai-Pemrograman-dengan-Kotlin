@@ -1,5 +1,5 @@
 fun main() {
-    println("Factorial 10 is: ${factorial(10)}")
+    println("Factorial 10 i: ${factorial(10)}")
 }
 
 tailrec fun factorial(n: Int, result: Int = 1): Int {
