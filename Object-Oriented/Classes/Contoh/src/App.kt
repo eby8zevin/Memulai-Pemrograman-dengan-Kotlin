@@ -4,7 +4,7 @@ class Animal(val name: String,
              val isMammal: Boolean) {
 
     fun eat() {
-        println("$name makan")
+        println("$name makan!")
     }
 
     fun sleep() {
