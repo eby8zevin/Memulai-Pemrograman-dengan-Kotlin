@@ -1,4 +1,4 @@
-// main function
+// main functio
 fun main() {
     val numbers = ListNumber<Long>()
     val numbers2 = ListNumber<Int>()
