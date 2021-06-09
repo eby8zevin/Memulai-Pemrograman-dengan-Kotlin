@@ -1,4 +1,4 @@
-var message = "Kotli"
+var message = "Kotlin"
 
 fun main() {
     println(::message.name)
