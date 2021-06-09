@@ -3,15 +3,15 @@ files:
 - name: src/Task.kt
   visible: true
   placeholders:
-  - offset: 434
-    length: 19
+  - offset: 654
+    length: 24
     placeholder_text: val gippy = Cat("")
     initial_state:
       length: 19
       offset: 434
     initialized_from_dependency: false
-    selected: false
-    status: Unchecked
+    selected: true
+    status: Solved
     encrypted_possible_answer: val gippy = Cat("Gippy")
   text: |-
     /**
@@ -51,5 +51,8 @@ files:
     Fungsi getter dipanggil
     Gippy, sleep!
   learner_created: false
-status: Unchecked
+status: Solved
+feedback:
+  message: Congratulations!
+  time: Wed, 09 Jun 2021 14:58:07 UTC
 record: -1
