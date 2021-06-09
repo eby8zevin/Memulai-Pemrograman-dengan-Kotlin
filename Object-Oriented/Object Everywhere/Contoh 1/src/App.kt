@@ -1,6 +1,6 @@
 // main function
 fun main() {
-    val company = "Dicodin"
+    val company = "Dicoding"
     println(company.reversed())
     println(company.toUpperCase())
     println(company.toLowerCase())
