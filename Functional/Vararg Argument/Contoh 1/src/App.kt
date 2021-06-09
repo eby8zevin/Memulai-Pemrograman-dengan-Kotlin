@@ -1,4 +1,4 @@
-// main functio
+// main function
 fun main() {
     val number = sumNumbers(10, 20, 30, 40)
     print(number)
