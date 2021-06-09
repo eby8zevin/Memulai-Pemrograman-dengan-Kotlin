@@ -13,7 +13,7 @@ fun main() {
         someIntValue = -1
     } finally {
         when (someIntValue) {
-            0 -> println("Catch bloc NullPointerException terpanggil!")
+            0 -> println("Catch block NullPointerException terpanggil!")
             -1 -> println("Catch block NumberFormatException terpanggil!")
             else -> println(someIntValue)
         }
