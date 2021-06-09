@@ -9,5 +9,5 @@ fun main() = runBlocking(CoroutineName("main")) {
     }
 
     repeat(5) { println(channel.receive()) }
-    println("receive in ${Thread.currentThread().name}")
+    println("received in ${Thread.currentThread().name}")
 }
