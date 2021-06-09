@@ -1,5 +1,5 @@
 fun main() {
-    val text = "Hell"
+    val text = "Hello"
     val result = text.run {
         val from = this
         val to = this.replace("Hello", "Kotlin")
