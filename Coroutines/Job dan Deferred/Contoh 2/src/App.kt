@@ -7,5 +7,5 @@ fun main() = runBlocking {
     }
 
     job.start()
-    println("Other tas")
+    println("Other task")
 }
