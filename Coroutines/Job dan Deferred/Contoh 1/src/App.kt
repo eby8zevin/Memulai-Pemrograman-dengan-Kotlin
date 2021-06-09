@@ -4,7 +4,7 @@ fun main() = runBlocking {
 
     // menggunakan launch()
     val jobLaunch = launch {
-        // do background task her }
+        // do background task here }
     }
 
     // menggunakan job()
