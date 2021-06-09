@@ -50,6 +50,6 @@ files:
         return PI * 2 * radius
     }
   learner_created: false
-status: Unchecked
+status: Solved
 record: -1
 post_submission_on_open: true
