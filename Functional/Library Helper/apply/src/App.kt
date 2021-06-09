@@ -2,7 +2,7 @@
 
 fun main() {
     val message = StringBuilder().apply {
-        append("Hell ")
+        append("Hello ")
         append("Kotlin!")
     }
 
