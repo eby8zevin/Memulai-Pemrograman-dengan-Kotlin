@@ -1,4 +1,4 @@
-// main function
+// main functio
 fun main() {
     10.printInt()
 }
