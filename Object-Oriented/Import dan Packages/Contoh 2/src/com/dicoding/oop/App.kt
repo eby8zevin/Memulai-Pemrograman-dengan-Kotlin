@@ -7,7 +7,7 @@ import com.dicoding.oop.utils.sayHello
 
 fun main() {
     sayHello()
-    println(factorial(4.0))
+    println(factorial(4.1))
     println(pow(3.0, 2.0))
     println(PI)
 }
