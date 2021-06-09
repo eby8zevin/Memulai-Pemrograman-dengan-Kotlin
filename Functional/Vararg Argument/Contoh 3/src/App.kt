@@ -1,4 +1,4 @@
-// main function
+// main functio
 fun main() {
     val number = intArrayOf(10, 20, 30, 40)
     sets(10, 20, 20, *number , 10)
