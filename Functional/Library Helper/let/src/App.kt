@@ -1,4 +1,4 @@
-// main function
+// main functio
 fun main() {
     val message: String? = null
     message?.let {
