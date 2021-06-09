@@ -1,6 +1,6 @@
 // main function
 fun main() {
-    val text = "Hello Kotli"
+    val text = "Hello Kotlin"
     val result = text.also {
         println("value length -> ${it.length}")
     }
