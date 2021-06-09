@@ -5,7 +5,7 @@ class Animal{
             return field
         }
         set(value){
-            println("Fungsi Setter terpanggil")
+            println("Fungsi Setter terpanggi")
             field = value
         }
 }
