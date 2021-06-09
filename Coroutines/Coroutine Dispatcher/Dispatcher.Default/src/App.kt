@@ -11,5 +11,5 @@ fun main() = runBlocking {
         // TODO: Implement suspending lambda here
     }
 
-    println("Dispatche Default")
+    println("Dispatcher Default")
 }
