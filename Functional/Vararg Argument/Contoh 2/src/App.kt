@@ -1,4 +1,4 @@
-// main function
+// main functio
 fun main() {
     sets(10, 10, name = "Kotlin")
 }
