@@ -1,5 +1,5 @@
 fun main() {
-    val numbers = 1.rangeTo(11)
+    val numbers = 1.rangeTo(10)
     val evenNumbers = numbers.filter(Int::isEvenNumber)
 
     println(evenNumbers)
