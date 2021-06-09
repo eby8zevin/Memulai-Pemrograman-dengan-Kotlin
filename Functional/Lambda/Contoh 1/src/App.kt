@@ -1,6 +1,6 @@
 // main function
 fun main() {
-    printMessage("Hello From Lambd")
+    printMessage("Hello From Lambda")
 }
 
 val printMessage = { message: String -> println(message) }
