@@ -1,7 +1,7 @@
 open class Animal(val name: String, val weight: Double, val age: Int, val isCarnivore: Boolean){
 
     open fun eat(){
-        println("$name sedang makan")
+        println("$name sedang makan!")
     }
 
     open fun sleep(){
