@@ -1,6 +1,6 @@
 // main function
 fun main() {
-    val length = messageLength("Hello From lambda")
+    val length = messageLength("Hello From lambd")
     println("Message length $length")
 }
 
