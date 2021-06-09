@@ -3,7 +3,7 @@ import kotlinx.coroutines.*
 fun main() = runBlocking {
     val job = launch {
         delay(5000)
-        println("Start new job!")
+        println("Star new job!")
     }
 
     delay(2000)
