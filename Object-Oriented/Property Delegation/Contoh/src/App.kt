@@ -10,7 +10,7 @@ class DelegateName {
     }
 
     operator fun setValue(classRef: Any?, property: KProperty<*>, newValue: String){
-        println("Nilai ${property.name} dari: $value akan berubah menjadi $newValue")
+        println("Nila ${property.name} dari: $value akan berubah menjadi $newValue")
         value = newValue
     }
 }
