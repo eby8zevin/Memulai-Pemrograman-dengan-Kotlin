@@ -1,5 +1,5 @@
 fun main() {
-    println("Factorial 10 is: ${factorial(10)}")
+    println("Factorial 10 i: ${factorial(10)}")
 }
 
 fun factorial(n: Int): Int {
