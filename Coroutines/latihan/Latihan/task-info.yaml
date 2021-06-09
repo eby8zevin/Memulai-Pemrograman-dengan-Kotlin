@@ -4,7 +4,7 @@ files:
   visible: true
   placeholders:
   - offset: 310
-    length: 55
+    length: 93
     placeholder_text: |-
       fun sum(valueA: Int, valueB: Int): Int {
           return 0
@@ -13,15 +13,15 @@ files:
       length: 55
       offset: 310
     initialized_from_dependency: false
-    selected: false
-    status: Unchecked
+    selected: true
+    status: Solved
     encrypted_possible_answer: |-
       suspend fun sum(valueA: Int, valueB: Int): Int {
           delay(3000)
           return valueA + valueB
       }
-  - offset: 377
-    length: 60
+  - offset: 415
+    length: 98
     placeholder_text: |-
       fun multiple(valueA: Int, valueB: Int): Int {
           return 0
@@ -30,22 +30,22 @@ files:
       length: 60
       offset: 377
     initialized_from_dependency: false
-    selected: false
-    status: Unchecked
+    selected: true
+    status: Solved
     encrypted_possible_answer: |-
       suspend fun multiple(valueA: Int, valueB: Int): Int {
           delay(2000)
           return valueA * valueB
       }
-  - offset: 608
-    length: 9
+  - offset: 684
+    length: 125
     placeholder_text: println()
     initial_state:
       length: 9
       offset: 608
     initialized_from_dependency: false
-    selected: false
-    status: Unchecked
+    selected: true
+    status: Solved
     encrypted_possible_answer: |-
       println("""
               Result sum: ${resultSum.await()}
@@ -91,5 +91,8 @@ files:
     Result sum: 20
     Result multiple: 400
   learner_created: false
-status: Unchecked
+status: Solved
+feedback:
+  message: Congratulations!
+  time: Wed, 09 Jun 2021 15:55:45 UTC
 record: -1
