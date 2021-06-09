@@ -7,7 +7,7 @@ fun main() {
         someMustNotNullValue = someNullValue!!
         println(someMustNotNullValue)
     } catch (e: Exception) {
-        someMustNotNullValue = "Nilai String Nul"
+        someMustNotNullValue = "Nilai String Null"
         println(someMustNotNullValue)
     }
 }
