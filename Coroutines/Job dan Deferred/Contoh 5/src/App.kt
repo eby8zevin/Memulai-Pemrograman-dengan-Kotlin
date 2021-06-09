@@ -13,5 +13,5 @@ suspend fun getIncome(): Int {
 fun main() = runBlocking {
     val capital = async { getCapital() }
     val income = async { getIncome() }
-    println("Your profit is ${income.await() - capital.await()}")
+    println("You profit is ${income.await() - capital.await()}")
 }
