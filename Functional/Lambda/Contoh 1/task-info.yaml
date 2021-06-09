@@ -11,6 +11,6 @@ files:
 
     val printMessage = { message: String -> println(message) }
   learner_created: false
-status: Unchecked
+status: Solved
 record: -1
 post_submission_on_open: true
