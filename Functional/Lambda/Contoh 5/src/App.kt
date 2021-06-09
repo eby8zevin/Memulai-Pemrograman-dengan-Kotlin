@@ -3,7 +3,7 @@ fun main() {
     val message = buildString {
         append("Hello ")
         append("from ")
-        append("lambd ")
+        append("lambda ")
     }
 
     println(message)
