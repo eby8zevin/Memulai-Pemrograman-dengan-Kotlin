@@ -1,4 +1,4 @@
-// main function
+// main functio
 fun main() {
     val longArrayList = ArrayList<Long>()
     val firstLong = longArrayList[0]
