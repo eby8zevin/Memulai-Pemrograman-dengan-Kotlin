@@ -11,7 +11,7 @@ class Calculator {
 fun main() {
     val calc = Calculator()
 
-    println(calc.add(2, 4))
+    println(calc.add(2, 3))
     println(calc.add(2.5, 2.2))
     println(calc.add(6f, 7f))
     println(calc.add(1, 2, 3))
