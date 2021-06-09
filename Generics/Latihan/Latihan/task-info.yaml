@@ -4,28 +4,28 @@ files:
   visible: true
   placeholders:
   - offset: 381
-    length: 9
+    length: 101
     placeholder_text: println()
     initial_state:
       length: 9
       offset: 381
     initialized_from_dependency: false
-    selected: false
-    status: Unchecked
+    selected: true
+    status: Solved
     encrypted_possible_answer: |-
       println("""
               String result: $stringResult
               Int result: $intResult
           """.trimIndent())
-  - offset: 442
-    length: 8
+  - offset: 534
+    length: 102
     placeholder_text: return 0
     initial_state:
       length: 8
       offset: 442
     initialized_from_dependency: false
-    selected: false
-    status: Unchecked
+    selected: true
+    status: Solved
     encrypted_possible_answer: |-
       return when (args) {
               is Int -> args * 5
@@ -98,5 +98,8 @@ files:
         fun test8() = checkFunction(100110)
     }
   learner_created: false
-status: Unchecked
+status: Solved
+feedback:
+  message: Congratulations!
+  time: Wed, 09 Jun 2021 15:08:39 UTC
 record: -1
