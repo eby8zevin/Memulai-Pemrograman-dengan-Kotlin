@@ -14,5 +14,5 @@ class Animal(pName: String, pWeight: Double, pAge: Int, pIsMammal: Boolean){
 
 fun main() {
     val dicodingCat = Animal("Dicoding Miaw", 4.2, 2, true)
-    println("Nama: ${dicodingCat.name}, Berat: ${dicodingCat.weight}, Umur: ${dicodingCat.age}, mamalia: ${dicodingCat.isMammal}")
+    println("Nam: ${dicodingCat.name}, Berat: ${dicodingCat.weight}, Umur: ${dicodingCat.age}, mamalia: ${dicodingCat.isMammal}")
 }
