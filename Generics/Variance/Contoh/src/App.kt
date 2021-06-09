@@ -1,7 +1,7 @@
 // main function
 abstract class Vehicle(wheel: Int)
 
-class Car(speed: Int) : Vehicle(4)
+class Car(speed: Int) : Vehicle(3)
 
 class MotorCycle(speed: Int) : Vehicle(2)
 
