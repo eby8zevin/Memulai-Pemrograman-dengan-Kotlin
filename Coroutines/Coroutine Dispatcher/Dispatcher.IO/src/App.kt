@@ -8,5 +8,5 @@ fun main() = runBlocking {
         // TODO: Implement algorithm here
     }
 
-    println("Dispatche IO")
+    println("Dispatcher IO")
 }
