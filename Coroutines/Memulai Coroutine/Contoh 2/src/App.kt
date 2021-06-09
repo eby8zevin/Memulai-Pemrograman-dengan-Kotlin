@@ -13,5 +13,5 @@ suspend fun getIncome(): Int {
 fun main() = runBlocking {
     val capital = getCapital()
     val income = getIncome()
-    println("You profit is ${income - capital}")
+    println("Your profit is ${income - capital}")
 }
