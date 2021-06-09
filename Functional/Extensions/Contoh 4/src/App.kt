@@ -1,4 +1,4 @@
-// main function
+// main functio
 fun main() {
     val value: Int? = null
 
